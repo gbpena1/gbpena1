@@ -54,7 +54,7 @@ Sou desenvolvedor Back-End em formação, com foco em **Java** e **Spring Boot**
 
 ---
 
-### ⏱️ [Sistema de Gestão de Banco de Horas](https://github.com/gbpena1/sistema-banco-horas)
+### ⏱️ [Sistema de Gestão de Banco de Horas](https://github.com/gbpena1/Projeto-Integrador--1-Semestre)
 > Sistema desktop para controle de jornada de trabalho, desenvolvido como líder técnico de squad no Senac.
 
 - Arquitetura MVC com desacoplamento entre lógica, interface e dados
