@@ -65,7 +65,7 @@ Sou desenvolvedor Back-End em formação, com foco em **Java** e **Spring Boot**
 
 ---
 
-### 🖥️ [Projetos 42 São Paulo](https://github.com/Hall-00C)
+### 🖥️ [Projetos 42 São Paulo](https://github.com/gbpena1/42-rush01)
 > Exercícios e projetos desenvolvidos durante a Piscina da 42 SP — bootcamp intensivo de engenharia de software em C.
 
 `C` `Algoritmos` `Lógica de Programação`
